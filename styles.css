@@ -1,0 +1,120 @@
+
+
+body {
+    color: rgb(107, 0, 128);
+    background: rgb(201, 227, 255);
+    margin: 80px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 50px;
+    text-align: center;
+   
+}
+
+header {
+    border-bottom: solid 2px rgb(127, 10, 156);
+    padding: 20px;
+    font-size: 65px;
+    color: rgb(3, 192, 192);
+}
+
+.chamada {
+    background: rgb(218, 183, 237);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: 30px;
+
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+     color: rgb(0, 184, 184);
+}
+
+img {
+    height: 300px;
+    
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    justify-content: center;
+}
+
+.categoria-videos img:hover {
+    opacity: 0.5;
+    border: 8px solid purple;
+}
+
+
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria h2 {
+    color: rgb(107, 0, 128);
+}
+
+h3 {
+  margin-top: 100px;
+    font-size: 25px;
+
+}
+
+.categoria-posts {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px; 
+}
+
+.categoria-posts img:hover {
+    opacity: 0.5;
+    border: 8px solid purple;
+}
+
+.categoria-eudora {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px; 
+}
+.categoria-eudora img:hover {
+    opacity: 0.5;
+    border: 8px solid purple;
+}
+
+.categoria-jequiti {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px; 
+}
+.categoria-jequiti img:hover {
+    opacity: 0.5;
+    border: 8px solid purple;
+}
+
+h4 {
+    margin-top: 100px;
+    font-size: 25px;
+
+}
+
+h5 {
+    margin-top: 100px;
+    font-size: 25px;
+
+}
+
